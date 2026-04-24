@@ -24,6 +24,18 @@ I am always eager to learn new technologies, improve my development skills, and 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,aws,nginx,git,github,gitlab,linux,vscode,postman&perline=14" />
 </p>
+
+### 🎯 Coding Profiles
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Pranab2108_Codes">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/Pranab2108_Codes/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 📚 Currently Learning: CI/CD, Microservices, System Design, Cloud Deployment
 💻 Aspiring Full Stack Developer  
 🚀 Learning React, Node.js, MongoDB  
