@@ -32,7 +32,7 @@ I am always eager to learn new technologies, improve my development skills, and 
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/Pranab2108_Codes/">
+  <a href="https://leetcode.com/u/Codes_Pranab2108/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
