@@ -36,8 +36,14 @@ I am always eager to learn new technologies, improve my development skills, and 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-📚 Currently Learning: CI/CD, Microservices, System Design, Cloud Deployment
-💻 Aspiring Full Stack Developer  
-🚀 Learning React, Node.js, MongoDB  
-📚 Practicing DSA, LeetCode & CP, Codeforces
-🌱 Currently improving backend skills
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranab2108-Codes&show_icons=true&theme=radical" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab2108-Codes&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Pranab2108-Codes&theme=radical" />
+</p>
