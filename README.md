@@ -16,11 +16,17 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 # 🔥 Tech Stack
 🚀 Languages: Java, Python, JavaScript, TypeScript
+
 🖥 Frontend: HTML5, CSS3, React.js, TailwindCSS
+
 🛠 Backend: Node.js, Express.js, Next.js, MongoDB, MySQL, PostgreSQL, Prisma, Authentication, WebSockets, Redis
-⚡ DevOps & Cloud: Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana  AWS, Nginx, Linux, Bash, CI/CD
+
+⚡ DevOps & Cloud: Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana, AWS, Nginx, Linux, Bash, CI/CD
+
 🔁 Version Control: Git, GitHub, GitLab
+
 🛠 Tools: Postman, VS Code
+
 📚 Currently Learning: System Design, Serverless Architecture, Monorepos, Scalable Deployments
 
 📚 Currently Learning: CI/CD, Microservices, System Design, Cloud Deployment
