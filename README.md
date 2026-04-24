@@ -57,3 +57,11 @@ I am always eager to learn new technologies, improve my development skills, and 
 </p>
 
 ---
+
+### 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranab2108.codes@gmail.com)
+
+---
+
+⭐ Let's connect and collaborate on exciting projects! 🚀
