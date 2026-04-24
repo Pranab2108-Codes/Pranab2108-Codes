@@ -22,7 +22,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 📚 **Currently Learning:** System Design, Serverless Architecture, Monorepos, Scalable Deployments <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,prisma,docker,kubernetes,jenkins,aws,git,github,gitlab,linux,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,aws,nginx,git,github,gitlab,linux,vscode,postman&perline=14" />
 </p>
 📚 Currently Learning: CI/CD, Microservices, System Design, Cloud Deployment
 💻 Aspiring Full Stack Developer  
