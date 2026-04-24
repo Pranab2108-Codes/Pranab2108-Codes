@@ -15,13 +15,13 @@ Alongside development, I actively practice Data Structures and Algorithms to str
 I am always eager to learn new technologies, improve my development skills, and work on exciting projects that create real impact.
 
 # 🔥 Tech Stack
-🚀 Languages: Java, Python, JavaScript, TypeScript
-🖥 Frontend: HTML5, CSS3, React.js, TailwindCSS
-🛠 Backend: Node.js, Express.js, Next.js, MongoDB, MySQL, PostgreSQL, Prisma, Authentication, WebSockets, Redis
-⚡ DevOps & Cloud: Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana, AWS, Nginx, Linux, Bash, CI/CD
-🔁 Version Control: Git, GitHub, GitLab
-🛠 Tools: Postman, VS Code
-📚 Currently Learning: System Design, Serverless Architecture, Monorepos, Scalable Deployments
+🚀 Languages: Java, Python, JavaScript, TypeScript <br>
+🖥 Frontend: HTML5, CSS3, React.js, TailwindCSS <br>
+🛠 Backend: Node.js, Express.js, Next.js, MongoDB, MySQL, PostgreSQL, Prisma, Authentication, WebSockets, Redis <br>
+⚡ DevOps & Cloud: Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana, AWS, Nginx, Linux, Bash, CI/CD <br>
+🔁 Version Control: Git, GitHub, GitLab <br>
+🛠 Tools: Postman, VS Code <br>
+📚 Currently Learning: System Design, Serverless Architecture, Monorepos, Scalable Deployments <br>
 
 📚 Currently Learning: CI/CD, Microservices, System Design, Cloud Deployment
 💻 Aspiring Full Stack Developer  
