@@ -53,7 +53,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Pranab2108-Codes&theme=radical" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Pranab2108-Codes&theme=radical&hide_border=false" />
 </p>
 
 ---
