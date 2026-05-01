@@ -48,7 +48,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranab2108-Codes&show_icons=true&theme=radical&v=1" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranab2108-Codes&show_icons=true&theme=radical" />
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab2108-Codes&layout=compact&theme=radical" />
 </p>
 
