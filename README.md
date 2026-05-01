@@ -49,7 +49,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranab2108-Codes&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab2108-Codes&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranab2108-Codes&theme=radical" />
 </p>
 
 <p align="center">
