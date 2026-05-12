@@ -49,10 +49,10 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <img
   height="200em"
@@ -61,7 +61,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <img
   height="200em"
@@ -76,7 +76,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 <p align="center">
 
 <img
-  width="70%"
+  width="60%"
   src="https://streak-stats.demolab.com?user=pranab2108-codes&theme=radical"
 />
 
