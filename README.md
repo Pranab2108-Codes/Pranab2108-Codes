@@ -50,12 +50,12 @@ I am always eager to learn new technologies, improve my development skills, and 
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Pranab2108-Codes&show_icons=true&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranab2108-codes&show_icons=true&theme=radical"
   />
 
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab2108-Codes&layout=compact&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranab2108-codes&layout=compact&theme=radical"
   />
 </p>
 
