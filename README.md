@@ -48,12 +48,13 @@ I am always eager to learn new technologies, improve my development skills, and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranab2108-codes&show_icons=true&theme=radical" />
+  <img height="160em" src="./profile-summary-card-output/radical/3-stats.svg" />
   &nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranab2108-codes&layout=compact&theme=radical" />
+  <img height="160em" src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=pranab2108-codes&theme=radical" />
+  <img width="49%" src="./profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg" />
 </p>
 
 ---
