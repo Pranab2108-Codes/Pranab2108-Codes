@@ -96,7 +96,7 @@ I am always eager to learn new technologies, improve my development skills, and 
 ### 🌌 Tech Stack
 
 <p align="center">
-  <img src="./tech-stack-space.svg" width="100%" />
+  <img src="./assets/tech-stack-space.gif" width="100%">
 </p>
 
 ### 🎯 Coding Profiles
