@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="cover.png" alt="Banner" width="90%" />
 </p>
 
@@ -65,4 +65,42 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 ---
 
-⭐ Let's connect and collaborate on exciting projects! 🚀
+⭐ Let's connect and collaborate on exciting projects! 🚀 -->
+
+
+
+
+<!-- STYLE 3: ANIMATED SHOWCASE (banner + typing + snake)
+     Needs: the profile-cards workflow AND the snake workflow (snake-workflow.yml).
+     Banner comes from capsule-render (hosted on Vercel, so it may occasionally be slow). -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranab&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;I+turn+ideas+into+code;Always+learning+something+new" />
+</div>
+
+<h3 align="center">🧰 Tech I use</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
+<h3 align="center">📊 My stats</h3>
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</p>
+
+<h3 align="center">🐍 Contribution snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranab2108-codes/pranab2108-codes/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/pranab2108-codes/pranab2108-codes/output/github-snake.svg" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
