@@ -119,12 +119,6 @@ I am always eager to learn new technologies, improve my development skills, and 
   <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg" />
 </p>
 
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <p align="center">
