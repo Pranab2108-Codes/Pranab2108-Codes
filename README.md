@@ -145,10 +145,10 @@ I'm always eager to learn new technologies, improve my craft, and work on projec
   <img width="49%" src="./profile-summary-card-output/radical/4-productive-time.svg" />
 </p>
 
-### 📈 Contribution Activity
+### 📈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranab2108-codes&theme=radical&hide_border=true&area=true" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
 ---
