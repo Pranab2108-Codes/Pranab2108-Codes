@@ -70,28 +70,45 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 
 
-<!-- FINAL: BANNER + TYPING + 3D CONTRIBUTION GRAPH
-     Needs: profile-cards workflow AND profile-3d-contrib-workflow.yml (both given earlier).
-     Check the exact SVG filename generated in profile-3d-contrib/ and match it below. -->
+<!--
+  FINAL README — pranab2108-codes
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranab2108&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20DSA%20Practitioner&descAlignY=58" width="100%" />
+  Files to commit into the ROOT of your profile repo (pranab2108-codes/pranab2108-codes):
+    tech-stack-space.svg     <- the space/black-hole tech stack animation (no setup needed, just commit it)
+    glow-codeforces.svg      <- pulsing Codeforces badge (no setup needed, just commit it)
+    glow-leetcode.svg        <- pulsing LeetCode badge (no setup needed, just commit it)
+
+  Workflows to add under .github/workflows/ (each needs: Settings > Actions > General >
+  Workflow permissions > Read and write, then run once manually from the Actions tab):
+    profile-cards workflow            -> generates ./profile-summary-card-output/*
+    profile-3d-contrib-workflow.yml   -> generates ./profile-3d-contrib/*.svg   (already working for you)
+    snake-workflow.yml                -> pushes to an "output" branch (raw.githubusercontent.com link below)
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranab2108&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Practitioner%20%7C%20CP%20Practitioner&descAlignY=58" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps;JS+%2F+TS+%2F+React+%2F+Node+%2F+MongoDB;Docker+%2B+Kubernetes+%2B+CI%2FCD;Sharpening+DSA%2C+one+problem+at+a+time" />
 </div>
 
-### 🔥 Tech Stack
+---
+
+### 🌌 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,aws,nginx,git,github,gitlab,linux,vscode,postman&perline=14&theme=dark" />
+  <img src="./tech-stack-space.svg" width="100%" />
 </p>
 
 ### 🎯 Coding Profiles
+
 <p align="center">
-  <a href="https://codeforces.com/profile/Pranab2108_Codes"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Codes_Pranab2108/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Pranab2108_Codes"><img src="./glow-codeforces.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Codes_Pranab2108/"><img src="./glow-leetcode.svg" /></a>
 </p>
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img height="160em" src="./profile-summary-card-output/radical/3-stats.svg" />
   &nbsp;&nbsp;
@@ -103,11 +120,22 @@ I am always eager to learn new technologies, improve my development skills, and 
 </p>
 
 ### 🧊 3D Contribution Graph
+
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranab2108-codes/pranab2108-codes/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/pranab2108-codes/pranab2108-codes/output/github-snake.svg" />
+  </picture>
+</p>
+
 ### 📫 Connect
+
 <p align="center">
   <a href="mailto:pranab2108.codes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
