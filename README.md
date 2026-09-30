@@ -111,8 +111,8 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 <p align="center">
   <a href="https://leetcode.com/u/Codes_Pranab2108/"><img src="./glow-leetcode.svg" /></a>
-  <a href="https://codeforces.com/profile/Pranab2108_Codes"><img src="./glow-codeforces.svg" /></a>
   &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Pranab2108_Codes"><img src="./glow-codeforces.svg" /></a>
 </p>
 
 ### 📊 GitHub Stats
