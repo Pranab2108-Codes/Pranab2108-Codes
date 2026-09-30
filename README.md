@@ -95,16 +95,24 @@ I am always eager to learn new technologies, improve my development skills, and 
 
 ### 🌌 Tech Stack
 
-<p align="center">
-  <img src="./tech-stack-space-2.svg" width="100%" />
+🚀 **Languages:** Java, Python, JavaScript, TypeScript <br>
+🖥 **Frontend:** HTML5, CSS3, React.js, TailwindCSS <br>
+🛠 **Backend:** Node.js, Express.js, Next.js, MongoDB, MySQL, PostgreSQL, Prisma, Authentication, WebSockets, Redis <br>
+⚡ **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana, AWS, Nginx, Linux, Bash, CI/CD <br>
+🔁 **Version Control:** Git, GitHub, GitLab <br>
+🛠 **Tools:** Postman, VS Code <br>
+📚 **Currently Learning:** System Design, Serverless Architecture, Monorepos, Scalable Deployments <br>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,aws,nginx,git,github,gitlab,linux,vscode,postman&perline=14" />
 </p>
 
 ### 🎯 Coding Profiles
 
 <p align="center">
+  <a href="https://leetcode.com/u/Codes_Pranab2108/"><img src="./glow-leetcode.svg" /></a>
   <a href="https://codeforces.com/profile/Pranab2108_Codes"><img src="./glow-codeforces.svg" /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Codes_Pranab2108/"><img src="./glow-leetcode.svg" /></a>
 </p>
 
 ### 📊 GitHub Stats
